@@ -6,6 +6,15 @@ Image captioning requires a complex deep learning model with two components:
 1) a CNN that transforms an input image into a set of features, and 
 2) an RNN that turns those features into rich, descriptive language. 
 
+## Code structure 
+* 0_Dataset.ipynb
+* 1_Preliminaries.ipynb
+* 2_Training.ipynb
+* 3_Inference.ipynb
+* data_loader.py
+* vocabulary.py 
+* model.py 
+
 ## Approach
 recurrent neural networks learn from ordered sequences of data.
 * use pre-trained (VGG-19) model for object detection and classification
