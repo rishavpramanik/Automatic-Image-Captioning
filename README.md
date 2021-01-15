@@ -36,6 +36,6 @@ recurrent neural networks learn from ordered sequences of data.
 
 ## Reference 
 * [Show and Tell: Neural Image Caption Generator](https://arxiv.org/abs/1411.4555)
-* [Show and Tell : Lessons Learned from the 2015] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)
-* [Show and Tell with Attention](https://arxiv.org/pdf/1502.03044.pdf)
+* [Show and Tell : Lessons Learned from the 2015](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7505636)
+* [Show and Tell with Attention, 2016](https://arxiv.org/pdf/1502.03044.pdf)
 
