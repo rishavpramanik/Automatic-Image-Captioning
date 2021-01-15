@@ -1,5 +1,5 @@
 A Pytorch implementation of the CNN+RNN architecture on the MS-COCO dataset
-
+![MS-COCO](coco-examples.jpg)
 ## Background 
 This project is about combining CNN and RNN networks to build a deep learning model that produces captions given an input image.
 Image captioning requires a complex deep learning model with two components: 
